@@ -29,7 +29,7 @@ $  \alpha=2  $ (Collision): 1.209
 $  \alpha=5  $: 0.937
 $  \alpha=\infty  $ (Min): 0.758
 
-This body of work—from initial buggy simulation to failsafe extension—demonstrates how triadic dynamics, augmented by dwelling, create a robust investigative engine that resists bias amplification, supports human oversight via the two foundational questions (specific concern and falsifier), and maintains epistemic humility in adversarial settings. The full Python code (MIT licensed) is below for replication or deployment:
+This body of work—from demonstrates how triadic dynamics, augmented by dwelling, create a robust investigative engine that resists bias amplification, supports human oversight via the two foundational questions (specific concern and falsifier), and maintains epistemic humility in adversarial settings. The full Python code (MIT licensed) is below for replication or deployment:
 
 This repository implements an extended triadic model for simulating epistemic processes, such as investigative reasoning or coherence building in adversarial settings. The model features:
 
